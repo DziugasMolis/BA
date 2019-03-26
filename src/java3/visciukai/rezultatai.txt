@@ -1,0 +1,8 @@
+Pradiniai duomenys:
+Visciukas Nr.1 mase: 42 amzius: 5
+Visciukas Nr.2 mase: 47 amzius: 6
+Visciukas Nr.3 mase: 40 amzius: 5
+Visciukas Nr.4 mase: 35 amzius: 4
+Rezultatai:
+Didziausias visciukas: Nr.2
+Jauniausias visciukas: Nr.4

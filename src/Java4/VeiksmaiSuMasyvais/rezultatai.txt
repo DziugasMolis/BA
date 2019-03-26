@@ -1,0 +1,13 @@
+2 5 8 9 6 -2 3 -1 2 0 9 8 
+Vidurkis = 4.083333333333333
+Skaiciai didesni uz vidurki: 5 8 9 6 9 8 
+Minimum = -2 Maximum = 9
+Skaicius = 2 Kartojosi 2 kartu.
+Skaicius = 5 Kartojosi 1 kartu.
+Skaicius = 8 Kartojosi 2 kartu.
+Skaicius = 9 Kartojosi 2 kartu.
+Skaicius = 6 Kartojosi 1 kartu.
+Skaicius = -2 Kartojosi 1 kartu.
+Skaicius = 3 Kartojosi 1 kartu.
+Skaicius = -1 Kartojosi 1 kartu.
+Skaicius = 0 Kartojosi 1 kartu.
