@@ -1,0 +1,6 @@
+Skaicius = 1 Kartojosi 1 kartu.
+Skaicius = 2 Kartojosi 1 kartu.
+Skaicius = 3 Kartojosi 0 kartu.
+Skaicius = 4 Kartojosi 2 kartu.
+Skaicius = 5 Kartojosi 1 kartu.
+Skaicius = 6 Kartojosi 3 kartu.

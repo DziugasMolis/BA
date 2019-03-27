@@ -19,7 +19,7 @@ public class MasyvoApsukimas {
 
             while (eilute != null) {
                 String[] isskirtiSkaiciai = eilute.split(" ");
-                for(int i = 0; i < isskirtiSkaiciai.length; i++) {
+                for (int i = 0; i < isskirtiSkaiciai.length; i++) {
                     skaiciai = pridetiElementa(skaiciai,
                             Integer.parseInt(isskirtiSkaiciai[i]));
                 }
@@ -37,41 +37,31 @@ public class MasyvoApsukimas {
         Integer suma = 0;
         Integer[] didesniUzVidurki = new Integer[0];
         try (BufferedWriter output = new BufferedWriter(new FileWriter(failas))) {
-            for(int i = 0; i < skaiciai.length;i++) {
-                output.write(skaiciai[i] + " ");
-                suma += skaiciai[i];
-            }
+
+            suma = suma(skaiciai);
+            output.write("Suma  = " + suma);
+
             output.write("\n");
-            Double vid = (double)suma / skaiciai.length;
+            Double vid = vidurkis(suma, skaiciai.length);
             output.write("Vidurkis = " + vid);
 
-            for(int i = 0; i < skaiciai.length; i++) {
-                if(skaiciai[i] > vid) {
-                    didesniUzVidurki = pridetiElementa(didesniUzVidurki, skaiciai[i]);
-                }
-            }
+
             output.write("\n");
             output.write("Skaiciai didesni uz vidurki: ");
-            for(int i = 0; i < didesniUzVidurki.length;i++) {
+            didesniUzVidurki = didesniUzVidurki(skaiciai, vid);
+            for (int i = 0; i < didesniUzVidurki.length; i++) {
                 output.write(didesniUzVidurki[i] + " ");
             }
 
-            Integer min = 100;
-            Integer max = -100;
-            for (int i = 0; i < skaiciai.length; i++) {
-                if (skaiciai[i] < min) {
-                    min = skaiciai[i];
-                }
-                if(skaiciai[i] > max) {
-                    max = skaiciai[i];
-                }
-            }
+            Integer min = min(skaiciai);
+            Integer max = max(skaiciai);
+
             output.write("\n");
             output.write("Minimum = " + min + " Maximum = " + max);
             output.write("\n");
             Integer[] buveSkaiciai = new Integer[0];
-            for(int i = 0; i < skaiciai.length - 1; i++) {
-                if(!arEgzistuojaMasyve(buveSkaiciai, skaiciai[i])) {
+            for (int i = 0; i < skaiciai.length - 1; i++) {
+                if (!arEgzistuojaMasyve(buveSkaiciai, skaiciai[i])) {
                     buveSkaiciai = pridetiElementa(buveSkaiciai, skaiciai[i]);
                     Integer kiekKartuRastas = 1;
                     for (int j = i + 1; j < skaiciai.length; j++) {
@@ -89,13 +79,56 @@ public class MasyvoApsukimas {
         }
     }
 
-    public static Integer[] rikiuotiBurbuliuku() {
 
+    private static Integer suma(Integer[] belekas) {
+        Integer suma = 0;
+        for (int i = 0; i < belekas.length; i++) {
+            suma += belekas[i];
+        }
+        return suma;
     }
+
+    private static Double vidurkis(Integer suma, Integer masyvoIlgis) {
+        return (double) suma / masyvoIlgis;
+    }
+
+    private static Integer[] didesniUzVidurki(Integer[] skaiciai, Double vid) {
+        Integer[] didesniUzVidurki = new Integer[0];
+        for (int i = 0; i < skaiciai.length; i++) {
+            if (skaiciai[i] > vid) {
+                didesniUzVidurki = pridetiElementa(didesniUzVidurki, skaiciai[i]);
+            }
+        }
+        return didesniUzVidurki;
+    }
+
+    public static Integer min(Integer[] skaiciai) {
+        Integer min = 100;
+        for (int i = 0; i < skaiciai.length; i++) {
+            if (skaiciai[i] < min) {
+                min = skaiciai[i];
+            }
+        }
+        return min;
+    }
+
+    public static Integer max(Integer[] skaiciai) {
+        Integer max = -100;
+        for (int i = 0; i < skaiciai.length; i++) {
+            if (skaiciai[i] > max) {
+                max = skaiciai[i];
+            }
+        }
+        return max;
+    }
+
+//    public static Integer[] rikiuotiBurbuliuku() {
+//
+//    }
 
     public static Boolean arEgzistuojaMasyve(Integer[] skaiciai,
                                              Integer tikrinamasSkaicius) {
-        for(int i = 0; i < skaiciai.length;i++) {
+        for (int i = 0; i < skaiciai.length; i++) {
             if (tikrinamasSkaicius == skaiciai[i]) {
                 return true;
             }
