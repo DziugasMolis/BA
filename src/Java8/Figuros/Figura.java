@@ -1,17 +1,15 @@
 package Java8.Figuros;
 
-public class Figura {
+public class Figura implements Metodai {
 
-
+    @Override
     public Double plotas() {
-        return 0.0;
+        return null;
     }
 
+    @Override
     public Double perimetras() {
-        return 0.0;
+        return null;
     }
 
-    public String toString() {
-        return "Perimetras = " + perimetras() + " plotas = " + plotas();
-    }
 }

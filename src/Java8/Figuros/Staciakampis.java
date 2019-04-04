@@ -1,6 +1,6 @@
 package Java8.Figuros;
 
-public class Staciakampis extends Figura {
+public class Staciakampis extends Figura implements Metodai {
 
     private Double krastine1;
     private Double krastine2;
@@ -10,16 +10,19 @@ public class Staciakampis extends Figura {
         this.krastine2 = krastine2;
     }
 
-//    public String toString() {
-//        return "Perimetras = " + perimetras() + " plotas = " + plotas();
-//    }
-
+    @Override
     public Double plotas() {
         return krastine1 * krastine2;
     }
 
+    @Override
     public Double perimetras() {
         return krastine1 * 2 + krastine2 * 2;
+    }
+
+    @Override
+    public String sudetiStringus(String pirmas, String antras) {
+        return pirmas + antras;
     }
 
     public Double getKrastine1() {

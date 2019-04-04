@@ -15,7 +15,10 @@ public class Main {
 
         Figura maxPlotas = konteineris.maxPlotas();
 
-        System.out.println(Arrays.toString(arr));
+        for(Figura obj: arr) {
+            System.out.println(obj.spausdinti());
+        }
+//        System.out.println(Arrays.toString(arr));
     }
 
     public static Figura[] skaityti(String failas) {
