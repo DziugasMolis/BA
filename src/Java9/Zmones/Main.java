@@ -1,9 +1,5 @@
 package Java9.Zmones;
 
-import Java8.Figuros.Figura;
-import Java8.Figuros.Kvadratas;
-import Java8.Figuros.Staciakampis;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
