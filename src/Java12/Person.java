@@ -1,6 +1,6 @@
 package Java12;
 
-public class Person implements Comparable<Person> {
+public class Person {
     String name;
     int age;
 
@@ -30,8 +30,8 @@ public class Person implements Comparable<Person> {
         return "Vardas: " + name + " amzius: " + age;
     }
 
-    @Override
-    public int compareTo(Person other) {
-        return this.getName().compareTo(other.getName());
-    }
+//    @Override
+//    public int compareTo(Person other) {
+//        return this.getName().compareTo(other.getName());
+//    }
 }

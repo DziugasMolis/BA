@@ -2,15 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2247ce04-c46e-44d9-a26c-d35c8deee993" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java12/BendrineKlase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java12/BendriniaiMetodai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java12/DviejuTipu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java12/Mapas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java12/Objektas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java12/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java12/Pora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java12/Skaicius.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/Uzduotis/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/Uzduotis/Uzduotis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/data/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java13/demo9/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BalticTalents/Java12/BendriniaiMetodai.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BalticTalents/Java12/BendriniaiMetodai.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BalticTalents/Java12/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BalticTalents/Java12/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BalticTalents/Java12/Objektas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BalticTalents/Java12/Objektas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BalticTalents/Java12/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BalticTalents/Java12/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java12/BendriniaiMetodai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java12/BendriniaiMetodai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java12/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java12/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java12/Objektas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java12/Objektas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java12/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java12/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,102 +35,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java10/Employee/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/java13/demo8/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="103" selection-start-line="103" selection-end-line="107" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java12/Objektas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="169">
+              <caret line="33" column="27" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="27" />
               <folding>
-                <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#377#378#0" expanded="true" />
+                <element signature="e#415#416#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java12/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/java13/demo9/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="-220">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java12/Mapas.java">
+        <entry file="file://$PROJECT_DIR$/src/java13/demo5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-              <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-                <element signature="e#686#687#0" expanded="true" />
-                <element signature="e#748#749#0" expanded="true" />
-                <element signature="e#822#823#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="189">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Java12/BendriniaiMetodai.java">
+        <entry file="file://$PROJECT_DIR$/src/java13/Uzduotis/Uzduotis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+            <state relative-caret-position="247">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java12/DviejuTipu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-221">
-              <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java12/BendrineKlase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#115#116#0" expanded="true" />
-                <element signature="e#159#160#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Java10/AnonimineKlase/Skaiciavimai.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -137,17 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Java8/Suma.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Main.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Paveldimumas/Human.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Paveldimumas/Teacher.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Paveldimumas/Studentas.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Paveldimumas/Main.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Gyvunai/Animal.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Gyvunai/Cat.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Gyvunai/Main.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Gyvunai/Dog.java" />
-        <option value="$PROJECT_DIR$/src/Java8/Gyvunai/Farm.java" />
         <option value="$PROJECT_DIR$/src/Java8/Figuros/Duomenys.txt" />
         <option value="$PROJECT_DIR$/src/Java8/Figuros/Figuros.java" />
         <option value="$PROJECT_DIR$/src/Java9/Pauksciai/Varna.java" />
@@ -180,18 +134,29 @@
         <option value="$PROJECT_DIR$/src/Java10/Employee/AlguSkaiciavimai.java" />
         <option value="$PROJECT_DIR$/src/Java10/Employee/Main.java" />
         <option value="$PROJECT_DIR$/src/Java12/Object.java" />
-        <option value="$PROJECT_DIR$/src/Java12/Objektas.java" />
         <option value="$PROJECT_DIR$/src/Java12/BendrineKlase.java" />
         <option value="$PROJECT_DIR$/src/Java12/Pora.java" />
         <option value="$PROJECT_DIR$/src/Java12/DviejuTipu.java" />
         <option value="$PROJECT_DIR$/src/Java12/Mapas.java" />
-        <option value="$PROJECT_DIR$/src/Java12/Main.java" />
         <option value="$PROJECT_DIR$/src/Java12/Person.java" />
         <option value="$PROJECT_DIR$/src/Java12/BendriniaiMetodai.java" />
+        <option value="$PROJECT_DIR$/src/Java12/Objektas.java" />
+        <option value="$PROJECT_DIR$/src/Java12/Skaicius.java" />
+        <option value="$PROJECT_DIR$/src/Java12/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/demo1/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/demo2/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/demo3/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/demo4/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/demo5/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/demo6/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/demo7/Main.java" />
+        <option value="$PROJECT_DIR$/src/java13/Uzduotis/Container.java" />
+        <option value="$PROJECT_DIR$/src/java13/data/Employee.java" />
+        <option value="$PROJECT_DIR$/src/java13/Uzduotis/Uzduotis.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1190" />
     <option name="width" value="1225" />
     <option name="height" value="1300" />
@@ -202,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,24 +191,101 @@
               <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Java9" type="462c0819:PsiDirectoryNode" />
-              <item name="Filmai" type="462c0819:PsiDirectoryNode" />
+              <item name="Padangos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
               <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Java12" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="demo9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="Uzduotis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BalticTalents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BalticTalents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java13" type="462c0819:PsiDirectoryNode" />
+              <item name="Uzduotis" type="462c0819:PsiDirectoryNode" />
+              <item name="Uzduotis.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554792907434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554880104399" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -253,6 +296,7 @@
       <recent name="Java7.Human.Telefonai" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dziugas\Documents\BalticTalents\src" />
       <recent name="C:\Users\Dziugas\Documents\BalticTalents\src\Java12" />
     </key>
   </component>
@@ -268,26 +312,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BendriniaiMetodai">
-    <configuration name="BendriniaiMetodai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java12.BendriniaiMetodai" />
-      <module name="BalticTalents" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Uzduotis">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java12.Main" />
+      <option name="MAIN_CLASS_NAME" value="java13.demo6.Main" />
       <module name="BalticTalents" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java12.*" />
+          <option name="PATTERN" value="java13.demo6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,11 +327,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java10.LokaliKlase.Main" />
+      <option name="MAIN_CLASS_NAME" value="java13.demo8.Main" />
       <module name="BalticTalents" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java10.LokaliKlase.*" />
+          <option name="PATTERN" value="java13.demo8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,11 +340,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java10.AnonimineKlase.Main" />
+      <option name="MAIN_CLASS_NAME" value="java13.demo9.Main" />
       <module name="BalticTalents" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java10.AnonimineKlase.*" />
+          <option name="PATTERN" value="java13.demo9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +352,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java10.Employee.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java13.demo7.Main" />
       <module name="BalticTalents" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java10.Employee.*" />
+          <option name="PATTERN" value="java13.demo7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uzduotis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java13.Uzduotis.Uzduotis" />
+      <module name="BalticTalents" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java13.Uzduotis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,11 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BendriniaiMetodai" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Uzduotis" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +402,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24496645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25167784" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -435,11 +479,37 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java13/demo7/Main.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>a</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Calculate&lt;A&gt; e = A::new;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Calculate&lt;A&gt; c = A::new;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>objektas[3] != null</expression-string>
         <language-id>JAVA</language-id>
@@ -465,170 +535,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>stud</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>h1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>eilutesReiksmes[stulpelis]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>visosEilutes.split(&quot; &quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java8/Gyvunai/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java8/Gyvunai/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java8/Antras/Pavadinimas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java8/Pirmas/Pavadinimas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java8/Gyvunai/Farm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java8/Figuros/Duomenys.txt" />
-    <entry file="file://$PROJECT_DIR$/src/Java9/Pauksciai/Varna.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Pauksciai/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Zmones/Duomenys.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Zmones/ZmoniuKonteineris.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java7/Human/Telefonai/Telefonas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="56" column="40" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="40" />
-          <folding>
-            <element signature="e#1252#1253#0" expanded="true" />
-            <element signature="e#1300#1301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java7/Human/Telefonai/Duomenys.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Pauksciai/Paukstis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Zmones/Zmogus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#665#666#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java9/Zmones/Studentas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -674,16 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Padangos/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java8/Figuros/Kvadratas.java" />
     <entry file="file://$PROJECT_DIR$/src/Java8/Figuros/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/Java9/Zmones/Darbuotojas.java">
@@ -708,16 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java9/Filmai/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -798,28 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java10/AnonimineKlase/Skaiciavimai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java12/Objektas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java10/Employee/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -854,34 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java10/Employee/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="103" selection-start-line="103" selection-end-line="107" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java12/Mapas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java12/DviejuTipu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="2" column="43" lean-forward="true" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Comparable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
@@ -889,46 +728,244 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java12/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Java10/Employee/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1717">
+          <caret line="103" selection-start-line="103" selection-end-line="107" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java12/BendrineKlase.java">
+    <entry file="file://$PROJECT_DIR$/src/Java12/Mapas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
           <folding>
-            <element signature="e#115#116#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java12/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-376">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java12/DviejuTipu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java12/BendrineKlase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java10/AnonimineKlase/Skaiciavimai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Java12/BendriniaiMetodai.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="136">
+          <caret line="33" column="35" selection-start-line="33" selection-start-column="35" selection-end-line="33" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java12/Objektas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java12/Skaicius.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="975" column="18" selection-start-line="975" selection-start-column="11" selection-end-line="975" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo6/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo9/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java12/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java9/Padangos/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="80" column="4" selection-start-line="80" selection-start-column="4" selection-end-line="84" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java9/Filmai/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-403">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo8/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/Uzduotis/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="48" column="39" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="39" />
+          <folding>
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#915#916#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="12" selection-end-line="71" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/data/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+          <folding>
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#1170#1171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/demo5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java13/Uzduotis/Uzduotis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

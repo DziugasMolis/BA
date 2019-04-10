@@ -28,6 +28,9 @@ public class Main {
         mapas.put(1, "Jonas");
         mapas.put(2, "Petras");
         System.out.println(mapas.get(1));
+
+
+        Skaicius objSkaicius = new Skaicius();
     }
 
     public static void koksTipas(Objektas obj) {

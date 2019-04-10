@@ -31,8 +31,8 @@ public class BendriniaiMetodai {
         listas.add(new Person("zandrius", 11));
         listas.add(new Person("bandrius", 15));
         listas.add(new Person("bcandrius", 12));
-        Collections.sort(listas);
-        System.out.println(listas);
+//        Collections.sort(listas);
+//        System.out.println(listas);
 
         listas.sort((o1, o2) -> o1.getAge().compareTo(o2.getAge()));
         System.out.println(listas);

@@ -4,6 +4,10 @@ public class Objektas {
 
     private Object objektas;
 
+    public Objektas() {
+
+    }
+
     public Objektas(Object objektas) {
         this.objektas = objektas;
     }
