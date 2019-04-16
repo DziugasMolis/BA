@@ -14,16 +14,16 @@ public class Main {
         String zaidejuFailas = new File("").getAbsolutePath() + "/src/java15/Krepsinis/zaidejai.txt";
         String taskuFailas = new File("").getAbsolutePath() + "/src/java15/Krepsinis/taskai.txt";
         Map<Integer, Zaidejas> zaidejuMap = skaitytiZaidejus(zaidejuFailas);
-//        System.out.println(zaidejuList);
+        System.out.println(zaidejuMap);
         Map<Integer, Statistika> rezultatai = skaitytiRezultatus(taskuFailas, zaidejuMap);
-//        System.out.println(rezultatai);
+        System.out.println(rezultatai);
         Spausdinti(new TreeMap<>(rezultatai), zaidejuMap);
-        Zaidejas daugiausiaTasku = zaidejuMap.get(rastiDaugiausiaTaskuPelniusi(rezultatai));
-        Zaidejas daugiasiaTritaskiu = zaidejuMap.get(rastiDaugiausiaImetusiuTritaskiu(rezultatai));
-        Zaidejas taikliausias = zaidejuMap.get(rastiTaikliausia(rezultatai));
-        System.out.println("Daugiausia tasku pelne: " + daugiausiaTasku + " " + rezultatai.get(daugiausiaTasku.getNumeris()).getTaskai());
-        System.out.println("Daugiausia imete tritaskiu: " + daugiasiaTritaskiu + " " + rezultatai.get(daugiausiaTasku.getNumeris()).getTritaskiai());
-        System.out.println("Taikliausias: " + taikliausias + " " + rezultatai.get(taikliausias.getNumeris()).getTikslumas());
+//        Zaidejas daugiausiaTasku = zaidejuMap.get(rastiDaugiausiaTaskuPelniusi(rezultatai));
+//        Zaidejas daugiasiaTritaskiu = zaidejuMap.get(rastiDaugiausiaImetusiuTritaskiu(rezultatai));
+//        Zaidejas taikliausias = zaidejuMap.get(rastiTaikliausia(rezultatai));
+//        System.out.println("Daugiausia tasku pelne: " + daugiausiaTasku + " " + rezultatai.get(daugiausiaTasku.getNumeris()).getTaskai());
+//        System.out.println("Daugiausia imete tritaskiu: " + daugiasiaTritaskiu + " " + rezultatai.get(daugiausiaTasku.getNumeris()).getTritaskiai());
+//        System.out.println("Taikliausias: " + taikliausias + " " + rezultatai.get(taikliausias.getNumeris()).getTikslumas());
     }
 
     public static void Spausdinti(Map<Integer, Statistika> rezultatai, Map<Integer, Zaidejas> zaidejuMap) {
