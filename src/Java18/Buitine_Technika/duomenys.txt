@@ -1,0 +1,24 @@
+12
+Whirlpool_šaldytuvas 418 10 1199.00
+Beko_šaldytuvas 431 18 1599.99
+Lorenz_el._krosnelė 021 26 499.00
+Cook_aerogrilis 023 11 359.00
+Aurum_el.virdulys 718 54 129.99
+Petra_virdulys_juodas 701 19 159.00
+Gastroback_sulčiaspaudė 219 11 219.00
+Philips_sulčiaspaudė 225 12 199.99
+First_kavamalė 603 36 99.99
+DeLonghi_kavamalė 615 22 109.00
+Bosch_džiov._Mašina 124 12 1899.00
+Panasonic_džiov._mašina 122 12 1559.00
+
+
+
+
+
+
+
+
+
+
+
